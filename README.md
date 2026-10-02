@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Venkata Hema Muddala👋
 
-<!--
-**MVHema/MVHema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm building skills in SQL and data analysis with a focus on 
+extracting business insights from real datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **SQL** — PostgreSQL, SQLite
+- Multi-table JOINs, CTEs, Window Functions, Subqueries
+- Business analysis and reporting
+- Data manipulation (INSERT, UPDATE, DELETE)
+
+## Projects
+
+### 🛒 ShopCo E-Commerce Analysis (SQLite)
+Analysis of customer behaviour, revenue trends and product 
+performance for an e-commerce company.
+→ https://github.com/MVHema/shopco_salesanalysis
+
+### 🌍 Northwind Trade Analysis (PostgreSQL)
+Full business analysis of the classic Northwind database —
+91 customers, 830 orders, 21 countries.
+→ https://github.com/MVHema/northwind_tradeanalysis
+
+
+## Open To
+Junior Data Analyst and Business Analyst opportunities.
+
+📧 hemavm4987@gmail.com
