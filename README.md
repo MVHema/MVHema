@@ -21,7 +21,7 @@ performance for an e-commerce company.
 ### 🌍 Northwind Trade Analysis (PostgreSQL)
 Full business analysis of the classic Northwind database —
 91 customers, 830 orders, 21 countries.
-→ https://github.com/MVHema/northwind_tradeanalysis
+→ https://github.com/MVHema/northwind_trade_analysis
 
 
 ## Open To
